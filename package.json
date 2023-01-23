@@ -14,7 +14,7 @@
     "babel-preset-env": "^1.7.0",
     "jest": "^24.8.0",
     "superagent": "^5.1.0",
-    "supertest": "^0.13.0"
+    "supertest": "^6.3.3"
   },
   "repository": {
     "type": "git",
